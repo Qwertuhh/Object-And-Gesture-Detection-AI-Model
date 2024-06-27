@@ -1,6 +1,8 @@
-# Object Detection AI Model
+# Object And Gesture Detection AI Model
 
 Object detection is a crucial task in computer vision that involves identifying and locating objects within an image or video. This guide provides a detailed overview of building an object detection AI model using OpenCV, OS, and Matplotlib. We'll walk through the setup, implementation, and visualization of the object detection process.
+
+> **Gesture:** detection is in progress
 
 > **To run This:** you have to install files in your system in jupyter.
 
@@ -8,9 +10,9 @@ Object detection is a crucial task in computer vision that involves identifying 
 
 To implement an object detection model, you use the following libraries:
 
-* **OpenCV** : For image and video processing.
-* **OS** : For file and directory management.
-* **Matplotlib** : For visualizing the results.
+- **OpenCV** : For image and video processing.
+- **OS** : For file and directory management.
+- **Matplotlib** : For visualizing the results.
 
 ## Future Updates
 
